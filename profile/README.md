@@ -1,4 +1,4 @@
-# Welcome to the TechSavvyCommunity
+# $Welcome$ $to$ $the$ $TechSavvyCommunity$
 
 <!--
 
