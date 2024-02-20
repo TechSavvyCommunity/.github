@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the TechSavvyCommunity</h1>
+# Welcome to the TechSavvyCommunity
 
 <!--
 
